@@ -42,7 +42,7 @@
     <tr>
         <td><img src ="https://raw.githubusercontent.com/LargeMammal/largemammal.github.io/master/Images/Risto.jpg" width="300px"></td>
         <td>
-            Vahvuudet:  <br>
+            Vahvuudet: Oppiminen, järjestelmällisyys <br>
             Nimi: Risto Laine<br>
             Email: K1516@student.jamk.fi   <br>
             puh: 040 077 9137<br>
